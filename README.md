@@ -1,5 +1,14 @@
-Nodejs, Mongodb and Bower on Ubuntu Trusty
-==========================================
+Node development on Ubuntu Trusty
+=================================
+
+Includes
+--------
+
+- Ubuntu Trusty Tahr x64
+- nodejs, npm
+- mongodb
+- grunt-cli
+- bower
 
 Installation
 ------------
@@ -15,4 +24,4 @@ Installation
 2. Start the Virtualmachine (this will take a while...)
 
 		cd MyProject
-		vagrant up
+		vagrant Up

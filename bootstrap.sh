@@ -14,7 +14,7 @@ apt-get install -y nodejs mongodb-org
 start mongod
 
 npm config set registry http://registry.npmjs.org/
-npm install -g bower
+npm install -g bower grunt-cli
 
 echo "Machine is ready"
 echo "These are my IP Addresses: "
