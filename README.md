@@ -15,7 +15,7 @@ Installation
 
 0. Install vagrant and virtualbox
 
-		sudo install -y vagrant virtualbox` 
+		sudo install -y vagrant virtualbox
 
 1. Clone repository
 
